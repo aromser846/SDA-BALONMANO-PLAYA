@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505121828EX6SCE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050512182814KY9Q</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EDUCACIÓN FÍSICA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SDA BALONMANO PLAYA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alejandro Romero Serra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777976235865</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosh57hw-5xc7ht6mj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CONOCEMOS EL BALONMANO PLAYA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONOCEMOS EL BALONMANO PLAYA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONOCEMOS EL BALONMANO PLAYA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57hw-5xc7ht6mj</odePageId>
+      <odeBlockId>block-1777723821865-9p5bbw2qa</odeBlockId>
+      <blockName>HISTORIA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57hw-5xc7ht6mj</odePageId>
+          <odeBlockId>block-1777723821865-9p5bbw2qa</odeBlockId>
+          <odeIdeviceId>idevice-1777723821861-bprqodtix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ORIGEN DEL BALONMANO PLAYA.</strong></p>
+<p>En el año 1992 es cuando podemos decir que nace este nuevo deporte de verano, en una pequeña isla italiana donde se celebró el primer torneo. Giampiero Masi fue uno de los máximos exponentes y responsables del primer reglamento realizado a finales de los años 80.</p>
+<p>Surge como respuesta a una demanda de los propios jugadores de Balonmano que, tras finalizar la temporadas regular, veían demasiado lejos el reencontrarse con la competición, los entrenamientos y con sus compañeros. Por este motivo, se crearon unas reglas que ayudaban a los deportistas a adaptarse a un terreno muy especial, la arena, primando especialmente la espectacularidad y la limpieza en el juego. Con el paso del tiempo, estas normas se han ido modificando, pero siempre buscando esos mismos objetivos.</p>
+<p>El balonmano playa llegó a España entrando por el Océano Atlántico, siendo Cádiz su puerta de entrada. En el año 1993 la Playa de la Victoria fue escenario del primer Torneo de Balonmano Playa, aunque al año siguiente la Federación Gaditana de Balonmano presidida por Juan Antonio Romero Rube fue quien tomó relevo hasta el 2004, que cedió el testigo al Club Balonmano Gades. </p>
+<p>El Balonmano Playa en Cádiz comenzó siendo un torneo de amigos, que cubría el objetivo, de seguir practicando balonmano en un periodo donde no había competiciones. Poco a poco esa idea fue cuajando y el Balonmano Playa iba interesando aún más a los que ya practicaban balonmano sala, sobre todo por ser un deporte rápido y espectacular.</p>
+<p> <img src="{{context_path}}/content/resources/gettyimages-83352810-612x612.jpg" width="612" height="408" alt="BALONMANO PLAYA 1" /></p>
+<p>A modo de resumen podría decirse que en un partido de BALONMANO PLAYA participan dos equipos compuestos por un máximo de ocho jugadores, actuando a la vez un portero y tres jugadores de campo. El juego se desarrolla en una cancha más pequeña que la del Balonmano (aproximadamente la mitad) con dos áreas de portería donde las líneas son rectas. De cara la puntuación, hay estipuladas unas condiciones para considerar que un gol es espectacular, y en ese caso se conceden dos puntos en lugar de uno. También vale dos puntos el gol marcado por el portero, convirtiendo a esta regla en una de las leyes fundamentales del reglamento que sabe “parar” cuando se defiende por otro que sabe “meter goles” cuando se ataca.</p>
+<p>Con el paso del tiempo, el BALONMANO PLAYA se ha ido convirtiendo en “otro deporte” llegando a darse casos en que los equipos de profesionales del Balonmano no han conseguido ganar a equipos que juegan con asiduidad a BALONMANO PLAYA, a pesar de que casi todos los jugadores practican ambas disciplinas.</p>
+<p>En la actualidad ya existen competiciones regladas por las diferentes federaciones, Real Federación Española de Balonmano, Federación Europea de Balonmano (EHF) y Federación Internacional de Balonmano (IHF). Así en España existen circuitos de ámbitos nacional y autonómicos, hay Campeonatos de Europa de clubes y Selecciones Nacionales y Campeonato del Mundo también de Selecciones Nacionales. De unos años a esta parte se viene luchando por la inclusión del BALONMANO PLAYA  en unos Juegos Olímpicos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777723821861-bprqodtix","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ORIGEN DEL BALONMANO PLAYA.</strong></p>\n<p>En el año 1992 es cuando podemos decir que nace este nuevo deporte de verano, en una pequeña isla italiana donde se celebró el primer torneo. Giampiero Masi fue uno de los máximos exponentes y responsables del primer reglamento realizado a finales de los años 80.</p>\n<p>Surge como respuesta a una demanda de los propios jugadores de Balonmano que, tras finalizar la temporadas regular, veían demasiado lejos el reencontrarse con la competición, los entrenamientos y con sus compañeros. Por este motivo, se crearon unas reglas que ayudaban a los deportistas a adaptarse a un terreno muy especial, la arena, primando especialmente la espectacularidad y la limpieza en el juego. Con el paso del tiempo, estas normas se han ido modificando, pero siempre buscando esos mismos objetivos.</p>\n<p>El balonmano playa llegó a España entrando por el Océano Atlántico, siendo Cádiz su puerta de entrada. En el año 1993 la Playa de la Victoria fue escenario del primer Torneo de Balonmano Playa, aunque al año siguiente la Federación Gaditana de Balonmano presidida por Juan Antonio Romero Rube fue quien tomó relevo hasta el 2004, que cedió el testigo al Club Balonmano Gades. </p>\n<p>El Balonmano Playa en Cádiz comenzó siendo un torneo de amigos, que cubría el objetivo, de seguir practicando balonmano en un periodo donde no había competiciones. Poco a poco esa idea fue cuajando y el Balonmano Playa iba interesando aún más a los que ya practicaban balonmano sala, sobre todo por ser un deporte rápido y espectacular.</p>\n<p> <img src=\"{{context_path}}/content/resources/gettyimages-83352810-612x612.jpg\" width=\"612\" height=\"408\" alt=\"BALONMANO PLAYA 1\" /></p>\n<p>A modo de resumen podría decirse que en un partido de BALONMANO PLAYA participan dos equipos compuestos por un máximo de ocho jugadores, actuando a la vez un portero y tres jugadores de campo. El juego se desarrolla en una cancha más pequeña que la del Balonmano (aproximadamente la mitad) con dos áreas de portería donde las líneas son rectas. De cara la puntuación, hay estipuladas unas condiciones para considerar que un gol es espectacular, y en ese caso se conceden dos puntos en lugar de uno. También vale dos puntos el gol marcado por el portero, convirtiendo a esta regla en una de las leyes fundamentales del reglamento que sabe “parar” cuando se defiende por otro que sabe “meter goles” cuando se ataca.</p>\n<p>Con el paso del tiempo, el BALONMANO PLAYA se ha ido convirtiendo en “otro deporte” llegando a darse casos en que los equipos de profesionales del Balonmano no han conseguido ganar a equipos que juegan con asiduidad a BALONMANO PLAYA, a pesar de que casi todos los jugadores practican ambas disciplinas.</p>\n<p>En la actualidad ya existen competiciones regladas por las diferentes federaciones, Real Federación Española de Balonmano, Federación Europea de Balonmano (EHF) y Federación Internacional de Balonmano (IHF). Así en España existen circuitos de ámbitos nacional y autonómicos, hay Campeonatos de Europa de clubes y Selecciones Nacionales y Campeonato del Mundo también de Selecciones Nacionales. De unos años a esta parte se viene luchando por la inclusión del BALONMANO PLAYA  en unos Juegos Olímpicos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57ia-7wmfyc89i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ORGANIZAMOS EL TRABAJO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ORGANIZAMOS EL TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ORGANIZAMOS EL TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57ia-7wmfyc89i</odePageId>
+      <odeBlockId>block-1777744423908-nj9q5jrnb</odeBlockId>
+      <blockName>Vamos a organizar la SDA en diferentes sesiones que van a seguir una línea temporal clara. Os invito a ver la infografía para poder entender como trabajaremos.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ia-7wmfyc89i</odePageId>
+          <odeBlockId>block-1777744423908-nj9q5jrnb</odeBlockId>
+          <odeIdeviceId>idevice-1777744423906-y9lpypz2t</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777744423906-y9lpypz2t" title="" href="{{context_path}}/content/resources/7.1 LÍNEA TEMPORAL.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.1 LÍNEA TEMPORAL.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777744423906-y9lpypz2t","img_0":{"img":"{{context_path}}/content/resources/7.1 LÍNEA TEMPORAL.png","thumbnail":"{{context_path}}/content/resources/7.1 LÍNEA TEMPORAL.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57ie-h80nevzkj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS PARA EL ALUMNADO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57ie-h80nevzkj</odePageId>
+      <odeBlockId>block-1777744613751-wod0oz7wj</odeBlockId>
+      <blockName>Os he organizado los diferentes recursos de contenido en el siguiente Padlet. en él tendréis además algunas tareas que habrá que ir elaborando llegado el momento.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ie-h80nevzkj</odePageId>
+          <odeBlockId>block-1777744613751-wod0oz7wj</odeBlockId>
+          <odeIdeviceId>idevice-1777744613749-m4ug3liqd</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/aromser846/educacion-fisica-secundaria-3yc9m0usu6u8pdbf" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57ih-b72a5lg06</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIONES DE TRABAJO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57ih-b72a5lg06</odePageId>
+      <odeBlockId>block-1777744884579-5dmzqin4h</odeBlockId>
+      <blockName>La SDA de balonmano playa se va a desarrollar en 8 sesiones en las que en cada una de ellas trabajaremos elementos importantes de cara a tener un buen dominio de este deporte.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ih-b72a5lg06</odePageId>
+          <odeBlockId>block-1777744884579-5dmzqin4h</odeBlockId>
+          <odeIdeviceId>idevice-1777744884576-prkopmdfb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/gettyimages-585898248-612x612.jpg" width="612" height="397" alt="BALONMANO PLAYA 2" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777744884576-prkopmdfb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/gettyimages-585898248-612x612.jpg\" width=\"612\" height=\"397\" alt=\"BALONMANO PLAYA 2\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57io-pvsvprb7m</odePageId>
+  <odeParentPageId>page-mosh57ih-b72a5lg06</odeParentPageId>
+  <pageName>SESIÓN 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57io-pvsvprb7m</odePageId>
+      <odeBlockId>block-1777745206494-l4520eo32</odeBlockId>
+      <blockName>1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57io-pvsvprb7m</odePageId>
+          <odeBlockId>block-1777745206494-l4520eo32</odeBlockId>
+          <odeIdeviceId>idevice-1777745206491-74hmeo71i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ESTRUCTURA SESIÓN 1:</strong></p>
+<p>Lanzamiento y ciclo de pasos. Balón sentado. Ejercicios de adaptación: carrera y a la señal se suelta el balón en el suelo previo a dar tres pasos y se coge otro. Juegos de lucha: golpeo balón contra balón (con fitball). </p>
+<p>Armado y lanzamiento en apoyo, y en suspensión. A pata coja con el pie del brazo lanzador se realiza el ciclo de tres pasos y se lanza al compañero. 2 x 2 derribar el cono. Formación de equipos mixtos y heterogéneos de 4 jugadores (partidillo solo pases). Debate sobre la honestidad, las reglas y respeto a las decisiones arbitrales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745206491-74hmeo71i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ESTRUCTURA SESIÓN 1:</strong></p>\n<p>Lanzamiento y ciclo de pasos. Balón sentado. Ejercicios de adaptación: carrera y a la señal se suelta el balón en el suelo previo a dar tres pasos y se coge otro. Juegos de lucha: golpeo balón contra balón (con fitball). </p>\n<p>Armado y lanzamiento en apoyo, y en suspensión. A pata coja con el pie del brazo lanzador se realiza el ciclo de tres pasos y se lanza al compañero. 2 x 2 derribar el cono. Formación de equipos mixtos y heterogéneos de 4 jugadores (partidillo solo pases). Debate sobre la honestidad, las reglas y respeto a las decisiones arbitrales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57ir-zvxu8goqi</odePageId>
+  <odeParentPageId>page-mosh57ih-b72a5lg06</odeParentPageId>
+  <pageName>SESIÓN 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57ir-zvxu8goqi</odePageId>
+      <odeBlockId>block-1777745576633-l5ii5vo5r</odeBlockId>
+      <blockName>2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ir-zvxu8goqi</odePageId>
+          <odeBlockId>block-1777745576633-l5ii5vo5r</odeBlockId>
+          <odeIdeviceId>idevice-1777745576631-zffvo9elp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ESTRUCTURA SESIÓN 2:</strong></p>
+<p>Bote. Caballería con bote. Ejercicios de bote: por parejas un compañero indica a su pareja la dirección a seguir. Circuito de bote y lanzamiento. Reflexión sobre el respeto a los adversarios, compañeros y el juego en equipo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745576631-zffvo9elp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ESTRUCTURA SESIÓN 2:</strong></p>\n<p>Bote. Caballería con bote. Ejercicios de bote: por parejas un compañero indica a su pareja la dirección a seguir. Circuito de bote y lanzamiento. Reflexión sobre el respeto a los adversarios, compañeros y el juego en equipo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57iv-f26ni6ii9</odePageId>
+  <odeParentPageId>page-mosh57ih-b72a5lg06</odeParentPageId>
+  <pageName>SESIÓN 3-4</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3-4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3-4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57iv-f26ni6ii9</odePageId>
+      <odeBlockId>block-1777745644602-r02bj9l27</odeBlockId>
+      <blockName>3-4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57iv-f26ni6ii9</odePageId>
+          <odeBlockId>block-1777745644602-r02bj9l27</odeBlockId>
+          <odeIdeviceId>idevice-1777745644601-kn09m5fd4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ESTRUCTURA SESIÓN 3-4:</strong></p>
+<p>Pase y recepción. Autopases contra la pared. Pases por parejas, primero en estático y luego en movimiento. En grupos de 6, dos en cada vértice de un triángulo, ejercicios de pase y cambio de fila. Rondos: 5 x 1 y 4 x 2. Los 10 pases, pero sin bote. Reflexión sobre el control emocional, agresividad. Debate sobre el sexismo en el deporte.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745644601-kn09m5fd4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ESTRUCTURA SESIÓN 3-4:</strong></p>\n<p>Pase y recepción. Autopases contra la pared. Pases por parejas, primero en estático y luego en movimiento. En grupos de 6, dos en cada vértice de un triángulo, ejercicios de pase y cambio de fila. Rondos: 5 x 1 y 4 x 2. Los 10 pases, pero sin bote. Reflexión sobre el control emocional, agresividad. Debate sobre el sexismo en el deporte.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57iy-pdwwum1rr</odePageId>
+  <odeParentPageId>page-mosh57ih-b72a5lg06</odeParentPageId>
+  <pageName>SESIÓN 5</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57iy-pdwwum1rr</odePageId>
+      <odeBlockId>block-1777745681808-b40qdcrj9</odeBlockId>
+      <blockName>5</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57iy-pdwwum1rr</odePageId>
+          <odeBlockId>block-1777745681808-b40qdcrj9</odeBlockId>
+          <odeIdeviceId>idevice-1777745681807-m0otyeyjw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ESTRUCTURA SESIÓN 5:</strong></p>
+<p>Fly, 360. Gestos técnicos de lanzamiento específicos del balonmano playa ensayados con colchonetas si es posible. La trenza pero con el ciclo de pasos. En grupos de 3 se avanza realizando “pase y va” para superar adversarios que sólo se pueden desplazar a lo ancho de las líneas del campo.  Minipartidos 4 x 3. Reflexión sobre la actitud activa y el esfuerzo.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745681807-m0otyeyjw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ESTRUCTURA SESIÓN 5:</strong></p>\n<p>Fly, 360. Gestos técnicos de lanzamiento específicos del balonmano playa ensayados con colchonetas si es posible. La trenza pero con el ciclo de pasos. En grupos de 3 se avanza realizando “pase y va” para superar adversarios que sólo se pueden desplazar a lo ancho de las líneas del campo.  Minipartidos 4 x 3. Reflexión sobre la actitud activa y el esfuerzo.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57j3-t34yjluj0</odePageId>
+  <odeParentPageId>page-mosh57ih-b72a5lg06</odeParentPageId>
+  <pageName>SESIÓN 6</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57j3-t34yjluj0</odePageId>
+      <odeBlockId>block-1777745826700-anvvm1rgh</odeBlockId>
+      <blockName>6</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57j3-t34yjluj0</odePageId>
+          <odeBlockId>block-1777745826700-anvvm1rgh</odeBlockId>
+          <odeIdeviceId>idevice-1777745826698-x51qako9r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ESTRUCTURA SESIÓN 6:</strong></p>
+<p>Los cambios en el playa, campo de balonmano, goles dobles…. Rondos 5 x 1. Se organizan mini partidos explicando las normas y los cambios específicos. Coevaluación grupal de las actitudes relacionadas con el juego limpio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745826698-x51qako9r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ESTRUCTURA SESIÓN 6:</strong></p>\n<p>Los cambios en el playa, campo de balonmano, goles dobles…. Rondos 5 x 1. Se organizan mini partidos explicando las normas y los cambios específicos. Coevaluación grupal de las actitudes relacionadas con el juego limpio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57j7-ro26ymzzy</odePageId>
+  <odeParentPageId>page-mosh57ih-b72a5lg06</odeParentPageId>
+  <pageName>SESIONES 7-8</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES 7-8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES 7-8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57j7-ro26ymzzy</odePageId>
+      <odeBlockId>block-1777745884948-83whqll7d</odeBlockId>
+      <blockName>7-8</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57j7-ro26ymzzy</odePageId>
+          <odeBlockId>block-1777745884948-83whqll7d</odeBlockId>
+          <odeIdeviceId>idevice-1777745884947-mc7lubyhw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ESTRUCTURA SESIONES 7-8:</strong></p>
+<p>Partidos oficiales de Balonmano playa con sistema de pool.</p>
+<p>Partidos oficiales de Balonmano playa. (si es posible en la playa).</p>
+<p><strong></strong></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745884947-mc7lubyhw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ESTRUCTURA SESIONES 7-8:</strong></p>\n<p>Partidos oficiales de Balonmano playa con sistema de pool.</p>\n<p>Partidos oficiales de Balonmano playa. (si es posible en la playa).</p>\n<p><strong></strong></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+      <odeBlockId>block-1777827284873-1ggzu553c</odeBlockId>
+      <blockName>A continuación tenéis todo lo necesario para saber cómo se os va a evaluar. Podéis ver todos los criterios y a qué tarea corresponden.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+          <odeBlockId>block-1777827284873-1ggzu553c</odeBlockId>
+          <odeIdeviceId>idevice-1777827284865-xoh0pwi13</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1.png" width="1366" height="966" alt="CRITERIOS 1" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827284865-xoh0pwi13","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1.png\" width=\"1366\" height=\"966\" alt=\"CRITERIOS 1\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+      <odeBlockId>block-1777827399369-a83fb6qp8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+          <odeBlockId>block-1777827399369-a83fb6qp8</odeBlockId>
+          <odeIdeviceId>idevice-1777827399366-ykepegz75</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/2.png" width="1366" height="966" alt="CRITERIOS 2" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827399366-ykepegz75","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/2.png\" width=\"1366\" height=\"966\" alt=\"CRITERIOS 2\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+      <odeBlockId>block-1777827444460-o8junwh8i</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+          <odeBlockId>block-1777827444460-o8junwh8i</odeBlockId>
+          <odeIdeviceId>idevice-1777827444456-1ea1l1pic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/3.png" width="1366" height="966" alt="CRITERIOS 3" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827444456-1ea1l1pic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/3.png\" width=\"1366\" height=\"966\" alt=\"CRITERIOS 3\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+      <odeBlockId>block-1777827510771-nec9qp9dx</odeBlockId>
+      <blockName>Os muestro a continuación dos instrumentos que se van a utilizar para evaluaros tanto a vosotros (proceso aprendizaje) como a mí (proceso de enseñanza).</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+          <odeBlockId>block-1777827510771-nec9qp9dx</odeBlockId>
+          <odeIdeviceId>idevice-1777827510767-747y12tah</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1(1).png" width="1366" height="1932" alt="autoevaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827510767-747y12tah","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1(1).png\" width=\"1366\" height=\"1932\" alt=\"autoevaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+      <odeBlockId>block-1777827736883-qca19p99v</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57ja-mh3toc5qz</odePageId>
+          <odeBlockId>block-1777827736883-qca19p99v</odeBlockId>
+          <odeIdeviceId>idevice-1777827736881-8hhlb9hm9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/2(1).png" width="1366" height="1932" alt="Instrumento evaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827736881-8hhlb9hm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/2(1).png\" width=\"1366\" height=\"1932\" alt=\"Instrumento evaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57jh-nj9d05480</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TAREAS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57jh-nj9d05480</odePageId>
+      <odeBlockId>block-1777746774129-kkqbeiyhb</odeBlockId>
+      <blockName>TAREA 2: localiza con google earth la playa más adecuada para realizar la actividad final de la SDA de Balonmano Playa.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jh-nj9d05480</odePageId>
+          <odeBlockId>block-1777746774129-kkqbeiyhb</odeBlockId>
+          <odeIdeviceId>idevice-1777746774126-m4850krog</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>INDIVIDUAL</dd></div></dl><p><a href="https://padlet.com/aromser846/breakout-room/d6AO26J7YOJb2ojL-jA7rbn9m6olGv498">https://padlet.com/aromser846/breakout-room/d6AO26J7YOJb2ojL-jA7rbn9m6olGv498</a></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777746774126-m4850krog","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"INDIVIDUAL","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>INDIVIDUAL</dd></div></dl><p><a href=\"https://padlet.com/aromser846/breakout-room/d6AO26J7YOJb2ojL-jA7rbn9m6olGv498\">https://padlet.com/aromser846/breakout-room/d6AO26J7YOJb2ojL-jA7rbn9m6olGv498</a></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57jh-nj9d05480</odePageId>
+      <odeBlockId>block-1777746965373-mpglihi0d</odeBlockId>
+      <blockName>TAREA 2. Una vez que hemos localizado la playa idónea con la anterior tarea.Ahora debes monitorizar la ruta con la app Strava para poder compartirla con los asistentes. Puedes hacer la ruta andando o corriendo para que puntúe más.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jh-nj9d05480</odePageId>
+          <odeBlockId>block-1777746965373-mpglihi0d</odeBlockId>
+          <odeIdeviceId>idevice-1777746965370-yb9xqjqru</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/aromser846/breakout-room/3jXMqpQnzMoBvAzx-jA7rbn9m6olGv498">https://padlet.com/aromser846/breakout-room/3jXMqpQnzMoBvAzx-jA7rbn9m6olGv498</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777746965370-yb9xqjqru","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/aromser846/breakout-room/3jXMqpQnzMoBvAzx-jA7rbn9m6olGv498\">https://padlet.com/aromser846/breakout-room/3jXMqpQnzMoBvAzx-jA7rbn9m6olGv498</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57jh-nj9d05480</odePageId>
+      <odeBlockId>block-1777747094527-db7odp8vc</odeBlockId>
+      <blockName>TAREA 3: Utiliza esta herramienta para poder hacer los videos de &quot;cronista deportivo&quot; del evento final.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jh-nj9d05480</odePageId>
+          <odeBlockId>block-1777747094527-db7odp8vc</odeBlockId>
+          <odeIdeviceId>idevice-1777747094524-pp7u9q5jw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/aromser846/breakout-room/mWng4lAkJmYY2zdJ-jA7rbn9m6olGv498">https://padlet.com/aromser846/breakout-room/mWng4lAkJmYY2zdJ-jA7rbn9m6olGv498</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777747094524-pp7u9q5jw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/aromser846/breakout-room/mWng4lAkJmYY2zdJ-jA7rbn9m6olGv498\">https://padlet.com/aromser846/breakout-room/mWng4lAkJmYY2zdJ-jA7rbn9m6olGv498</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57jn-9w1sp5puc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57jn-9w1sp5puc</odePageId>
+      <odeBlockId>block-1777828239029-9hx6ll5hr</odeBlockId>
+      <blockName>RÚBRICA &quot;CRONISTAS DEPORTIVOS&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jn-9w1sp5puc</odePageId>
+          <odeBlockId>block-1777828239029-9hx6ll5hr</odeBlockId>
+          <odeIdeviceId>idevice-1777828239025-tu7fe02lz</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica evaluando el trabajo de uno de los componentes de tu grupo. el profesor utilizará esta misma rúbrica para evaluaros a todos los componentes del grupo.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777828239025-tu7fe02lz%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20el%20trabajo%20en%20equipo%22%2C%22categories%22%3A%5B%22Participaci%F3n%20y%20colaboraci%F3n%22%2C%22Calidad%20del%20v%EDdeo%22%2C%22Trasnferencia%20y%20comunicaci%F3n%20de%20los%20cronistas.%22%2C%22Redacci%F3n%20y%20dicci%F3n%20de%20los%20contenidos%20%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Se%20ha%20involucrado%20en%20todo%20el%20proceso%20destacando%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Se%20ha%20involucrado%20en%20el%20proceso%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20se%20ha%20involucrado%20lo%20suficiente%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20se%20ha%20involucrado%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Fant%E1stico.%20Digno%20de%20un%20director%20de%20cine.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Muy%20bueno%2C%20aunque%20tiene%20posibles%20mejoras.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Le%20falta%20para%20estar%20correcto%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20es%20un%20buen%20v%EDdeo.%20Muchas%20deficiencias.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Muy%20bien%20explicado%2C%20pasado%20a%20redes%20sociales.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Le%20han%20dado%20difusi%F3n%2C%20pero%20es%20mejorable.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Poca%20difusi%F3n%20y%20repercusi%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Nula%20difusi%F3n%20y%20repercuisi%F3n.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Est%E1%20perfecto.%20Tanto%20los%20textos%20como%20la%20dicci%F3n%20a%20c%B4mara%20es%20excelente.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Dicci%F3n%20y%20contenidos%20correctos.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Se%20puede%20mejorar%20tanto%20la%20dicci%F3n%20como%20los%20contenidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Brillan%20por%20su%20ausencia.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20el%20trabajo%20en%20equipo%22%2C%22categories%22%3A%5B%22Participaci%F3n%20y%20colaboraci%F3n%22%2C%22Calidad%20del%20v%EDdeo%22%2C%22Trasnferencia%20y%20comunicaci%F3n%20de%20los%20cronistas.%22%2C%22Redacci%F3n%20y%20dicci%F3n%20de%20los%20contenidos%20%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Se%20ha%20involucrado%20en%20todo%20el%20proceso%20destacando%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Se%20ha%20involucrado%20en%20el%20proceso%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20se%20ha%20involucrado%20lo%20suficiente%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20se%20ha%20involucrado%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Fant%E1stico.%20Digno%20de%20un%20director%20de%20cine.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Muy%20bueno%2C%20aunque%20tiene%20posibles%20mejoras.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Le%20falta%20para%20estar%20correcto%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20es%20un%20buen%20v%EDdeo.%20Muchas%20deficiencias.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Muy%20bien%20explicado%2C%20pasado%20a%20redes%20sociales.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Le%20han%20dado%20difusi%F3n%2C%20pero%20es%20mejorable.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Poca%20difusi%F3n%20y%20repercusi%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Nula%20difusi%F3n%20y%20repercuisi%F3n.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Est%E1%20perfecto.%20Tanto%20los%20textos%20como%20la%20dicci%F3n%20a%20c%B4mara%20es%20excelente.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Dicci%F3n%20y%20contenidos%20correctos.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Se%20puede%20mejorar%20tanto%20la%20dicci%F3n%20como%20los%20contenidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Brillan%20por%20su%20ausencia.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%20evaluando%20el%20trabajo%20de%20uno%20de%20los%20componentes%20de%20tu%20grupo.%20el%20profesor%20utilizar%E1%20esta%20misma%20r%FAbrica%20para%20evaluaros%20a%20todos%20los%20componentes%20del%20grupo.%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar el trabajo en equipo</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-text-after"><p>En la rúbrica que os muestro podéis ver los diferentes niveles de desempeño que os pido para que el producto final de "Cronista Deportivo" sea correcto.</p></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%20evaluando%20el%20trabajo%20de%20uno%20de%20los%20componentes%20de%20tu%20grupo.%20el%20profesor%20utilizar%E1%20esta%20misma%20r%FAbrica%20para%20evaluaros%20a%20todos%20los%20componentes%20del%20grupo.%3C/p%3E</span><span class="exe-rubrics-text-after-data">%3Cp%3EEn%20la%20r%FAbrica%20que%20os%20muestro%20pod%E9is%20ver%20los%20diferentes%20niveles%20de%20desempe%F1o%20que%20os%20pido%20para%20que%20el%20producto%20final%20de%20%22Cronista%20Deportivo%22%20sea%20correcto.%3C/p%3E</span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57jq-h6dwk0dkd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GARANTÍA DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GARANTÍA DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GARANTÍA DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57jq-h6dwk0dkd</odePageId>
+      <odeBlockId>block-1777829930847-5pqsxutqa</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jq-h6dwk0dkd</odePageId>
+          <odeBlockId>block-1777829930847-5pqsxutqa</odeBlockId>
+          <odeIdeviceId>idevice-1777829930835-rx1278ha4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/DERECHOS DIGITALES.png" width="800" height="2000" alt="DERECHOS DIGITALES" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829930835-rx1278ha4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/DERECHOS DIGITALES.png\" width=\"800\" height=\"2000\" alt=\"DERECHOS DIGITALES\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosh57jt-x4tivfkro</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosh57jt-x4tivfkro</odePageId>
+      <odeBlockId>block-1777827858028-04n9t6y13</odeBlockId>
+      <blockName>SDA BALONMANO PLAYA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jt-x4tivfkro</odePageId>
+          <odeBlockId>block-1777827858028-04n9t6y13</odeBlockId>
+          <odeIdeviceId>idevice-1777827858023-wsnw5v3pk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🏁 Nodo Final: Créditos y Recursos del Proyecto<br />Título del Recurso: SDA BALONMANO PLAYA.<br />Nivel Educativo: 4º de ESO - EDUCACIÓN FÍSICA.<br />Descripción: Aprender balonmano playa, jugando por dos razones: al solicitar la coordinación dinámica específica de los segmentos superiores, se facilita su aprendizaje; la existencia de multitud de juegos y situaciones de aplicación de los aspectos técnico-tácticos de este deporte. Acercar un novedoso deporte que por el entorno costero del centro es fácil de practicar. Todo ello haciendo un uso le las TIC para hacer aún más atractivas las tareas a realizar.<br /> <br />👤 Autoría y Colaboración<br />Autor/a: Alejandro Romero Serra<br />Centro Educativo: IES Guadalmedina (Málaga)<br />Año de creación: 2026<br />Herramientas utilizadas: Padlet, Strava, Google Earth, Instagram, CapCut, Canva.</p>
+<p> <br />🔓 Licencia de Uso<br />Este material educativo se publica bajo la licencia:</p>
+<p>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>
+<p>Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.<br /> <br />📩 Contacto<br />Para dudas, sugerencias o compartir resultados, podéis contactar a través de:</p>
+<p>Email: aromser846@g.educaand.es<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827858023-wsnw5v3pk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🏁 Nodo Final: Créditos y Recursos del Proyecto<br />Título del Recurso: SDA BALONMANO PLAYA.<br />Nivel Educativo: 4º de ESO - EDUCACIÓN FÍSICA.<br />Descripción: Aprender balonmano playa, jugando por dos razones: al solicitar la coordinación dinámica específica de los segmentos superiores, se facilita su aprendizaje; la existencia de multitud de juegos y situaciones de aplicación de los aspectos técnico-tácticos de este deporte. Acercar un novedoso deporte que por el entorno costero del centro es fácil de practicar. Todo ello haciendo un uso le las TIC para hacer aún más atractivas las tareas a realizar.<br /> <br />👤 Autoría y Colaboración<br />Autor/a: Alejandro Romero Serra<br />Centro Educativo: IES Guadalmedina (Málaga)<br />Año de creación: 2026<br />Herramientas utilizadas: Padlet, Strava, Google Earth, Instagram, CapCut, Canva.</p>\n<p> <br />🔓 Licencia de Uso<br />Este material educativo se publica bajo la licencia:</p>\n<p>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>\n<p>Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.<br /> <br />📩 Contacto<br />Para dudas, sugerencias o compartir resultados, podéis contactar a través de:</p>\n<p>Email: aromser846@g.educaand.es<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosh57jt-x4tivfkro</odePageId>
+      <odeBlockId>block-1777976259488-v2nxujsfb</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosh57jt-x4tivfkro</odePageId>
+          <odeBlockId>block-1777976259488-v2nxujsfb</odeBlockId>
+          <odeIdeviceId>idevice-1777976259480-4whd1k8mn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EDUCACIÓN FÍSICA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Alejandro Romero Serra</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
